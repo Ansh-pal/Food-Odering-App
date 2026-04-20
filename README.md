@@ -21,6 +21,14 @@ A full-stack food ordering take-home project with role-based access control (RBA
 - [frontend](frontend) - React UI for login, ordering, and account actions
 - [docs](docs) - architecture, API collection, and reference docs
 
+## 🚀 Deployment
+Want to make your app live for everyone? See [DEPLOYMENT.md](DEPLOYMENT.md) for step-by-step instructions to deploy on:
+- **Frontend** on Vercel (free)
+- **Backend** on Railway (free tier)
+- **Database** on MongoDB Atlas (free tier)
+
+Takes about 12 minutes and costs $0/month! 
+
 ## Local Setup
 ### Prerequisites
 - Node.js 18+
